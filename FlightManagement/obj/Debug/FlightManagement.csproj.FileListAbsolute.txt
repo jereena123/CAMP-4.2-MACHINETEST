@@ -1,0 +1,10 @@
+E:\dotnet\DATABASE_DATABASE\FlightManagement\obj\Debug\FlightManagement.csproj.AssemblyReference.cache
+E:\dotnet\DATABASE_DATABASE\FlightManagement\obj\Debug\FlightManagement.csproj.CoreCompileInputs.cache
+E:\dotnet\DATABASE_DATABASE\FlightManagement\bin\Debug\FlightManagement.exe.config
+E:\dotnet\DATABASE_DATABASE\FlightManagement\bin\Debug\FlightManagement.exe
+E:\dotnet\DATABASE_DATABASE\FlightManagement\bin\Debug\FlightManagement.pdb
+E:\dotnet\DATABASE_DATABASE\FlightManagement\bin\Debug\SQLSERVERCONNECTIONLIBRARY.dll
+E:\dotnet\DATABASE_DATABASE\FlightManagement\bin\Debug\SQLSERVERCONNECTIONLIBRARY.pdb
+E:\dotnet\DATABASE_DATABASE\FlightManagement\obj\Debug\FlightMa.DACD0713.Up2Date
+E:\dotnet\DATABASE_DATABASE\FlightManagement\obj\Debug\FlightManagement.exe
+E:\dotnet\DATABASE_DATABASE\FlightManagement\obj\Debug\FlightManagement.pdb
